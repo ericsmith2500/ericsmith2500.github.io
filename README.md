@@ -2,7 +2,7 @@
 
 [Visualizing Sequencing Run/Lane Metrics from BaseSpace with Interactive Tableau Dashboards](https://github.com/ericsmith2500/tableau-basespace)
 
-Tableau Dashboards that display trends in sequencing run quality. Other dashboards include instrument utilization and lane-quality pass-rate configuration, and sequencing yield visualization. 
+These Tableau dashboards display interactive trends in sequencing run quality. They also include instrument utilization and lane-quality pass-rate configuration, and sequencing yield visualization. 
 
 # Python Applications
 
